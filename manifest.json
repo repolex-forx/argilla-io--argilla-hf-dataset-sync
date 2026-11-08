@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "argilla-hf-dataset-sync",
+  "versions": [
+    {
+      "commit": "8fd061909f5bc0f59f942acc132b432e71af8d64",
+      "parsed_at": "2026-11-08T02:15:49.318101+00:00",
+      "filetree": "filetree/8fd061909f5bc0f59f942acc132b432e71af8d64.nq.gz",
+      "blobs": [
+        "blob/8664b1130c0f4b6649a218451b0fa4e157902794.nq.gz",
+        "blob/180d415e509fb079745904c69c59991e7dd01395.nq.gz",
+        "blob/c2eabecac229425be9003d3f259451381494ff1c.nq.gz",
+        "blob/0cbed81c3c9c4305067f423c00d77e6d18e976c0.nq.gz",
+        "blob/8e0e0e1a9e8f249926e828971408ce6b82704ff0.nq.gz",
+        "blob/52d9fb4e61151cb7c458cfdbd7eddbc2c3fbb026.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
